@@ -1,0 +1,46 @@
+("D:\\For Vio's New Facebook "
+ 'Groups\\WATER_SORT_PUZZLE\\WATER_SORT_PUZZLE\\build\\water_sort_puzzle\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   "D:\\For Vio's New Facebook "
+   'Groups\\WATER_SORT_PUZZLE\\WATER_SORT_PUZZLE\\build\\water_sort_puzzle\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct', 'D:\\Python 3.8.7\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'd:\\python projects\\new python '
+   'project\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'd:\\python projects\\new python '
+   'project\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'd:\\python projects\\new python '
+   'project\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\python projects\\new python '
+   'project\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Python Projects\\New Python '
+   'Project\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('water_sort_puzzle',
+   "D:\\For Vio's New Facebook "
+   'Groups\\WATER_SORT_PUZZLE\\WATER_SORT_PUZZLE\\water_sort_puzzle.py',
+   'PYSOURCE'),
+  ('water_sort_puzzle.exe.manifest',
+   "D:\\For Vio's New Facebook "
+   'Groups\\WATER_SORT_PUZZLE\\WATER_SORT_PUZZLE\\build\\water_sort_puzzle\\water_sort_puzzle.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
